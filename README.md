@@ -6,4 +6,5 @@ To model fire risk, we account for the frequency of fires in different parts of 
 Based on these risk factors, we create a combined risk map, and identify the fire zones that are most in need of smoke alarms.
 
 <img style="float: center" height="408" width="528" src="Final Areas - fire zones.jpg">
+
 [Read our full report on this project](http://nola.gov/performance-and-accountability/nolalytics/files/full-report-on-analytics-informed-smoke-alarm-outr/)
